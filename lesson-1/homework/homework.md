@@ -69,9 +69,16 @@ Delete data (DELETE)
 
 7.DQL used to query data from the database and to retrive data from tables. Usually the command SELECT is used.
 DML is used to insert, update and delete data inside tables keeping the structure of the table unchanged, usually we use the following commands: INSERT, UPDATE, DELETE.
-DDL
+DDL used to create, add and delete column to the tables, also modify tables and databases.
+DCL used to permit users to allow or disallow them to access and/or modify data 
+TCL used to control how DML quearies are done to manage transactions (i.e. bundles of DML queries).
 
-I used the following commands to insert 3 records into the table: 
+
+8. I used the following commands to insert 3 records into the table: 
 ![image](https://github.com/user-attachments/assets/11ee672d-c7f4-43a6-b8d1-804b23fa6971)
 
+9. I followed the windows below, to restore the .bak database:
+
+![image](https://github.com/user-attachments/assets/d1a6151c-54bd-49b4-95f5-e85c5e78a48a)
+![image](https://github.com/user-attachments/assets/c77efbcf-fa63-4dea-a0d6-ab2ecbed40d5)
 
