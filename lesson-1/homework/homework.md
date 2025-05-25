@@ -11,6 +11,7 @@
 1. Define the following terms: data, database, relational database, and table. 
 2. List five key features of SQL Server.
 3. What are the different authentication modes available when connecting to SQL Server? (Give at least 2)
+
 Data is information in its raw form. It can be numbers, words, pictures, or sounds. Data by itself, it's not very useful, but when organized, it can help us understand things, events and behaviors
 database is like a digital filing cabinet. It's a place to store data in an organized way, so we can easily find, use, or change it later
 relational database stores data in tables, like a spreadsheet linked to each other, so we can combine data from different places, as we use any cell to relate to its respective ID “primary key”
