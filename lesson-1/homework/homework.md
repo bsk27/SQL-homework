@@ -35,6 +35,24 @@ SQL Server Authentication uses a separate username and password set in SQL Serve
 6. Describe the differences between SQL Server, SSMS, and SQL.
 ![image](https://github.com/user-attachments/assets/cca0b2b7-3347-4a99-8218-cd66984f88ef)
 
+SQL Server is a Database Management System (DBMS) created by Microsoft to 
+store data, runs SQL commands, ensures the data is safe, fast to access, and well-organized
+
+SSMS is a tool that helps to work with SQL Server more easily.
+With SSMS, we can:
+Write and run SQL queries
+Create databases and tables
+View and edit data in a friendly UI
+Manage users, backups, and more
+
+SQL is used to:
+Create tables (CREATE TABLE)
+Insert data (INSERT INTO)
+Get data (SELECT)
+Update data (UPDATE)
+Delete data (DELETE)
+
+
 ## Hard
 7. Research and explain the different SQL commands: DQL, DML, DDL, DCL, TCL with examples.
 8. Write a query to insert three records into the Students table.
