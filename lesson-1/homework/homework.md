@@ -66,3 +66,7 @@ Delete data (DELETE)
 8. Write a query to insert three records into the Students table.
 9. Restore AdventureWorksDW2022.bak file to your server. (write its steps to submit)
    You can find the database from this link :`https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak`
+I used the following commands to insert 3 records into the table: 
+![image](https://github.com/user-attachments/assets/11ee672d-c7f4-43a6-b8d1-804b23fa6971)
+
+
