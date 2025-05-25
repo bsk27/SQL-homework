@@ -33,6 +33,14 @@ SQL Server Authentication uses a separate username and password set in SQL Serve
 4. Create a new database in SSMS named SchoolDB.
 5. Write and execute a query to create a table called Students with columns: StudentID (INT, PRIMARY KEY), Name (VARCHAR(50)), Age (INT).
 6. Describe the differences between SQL Server, SSMS, and SQL.
+
+Query that is used to creat the table: 
+CREATE TABLE Students (
+    StudentID INT PRIMARY KEY,
+    Name VARCHAR(50),
+    Age INT
+);
+
 ![image](https://github.com/user-attachments/assets/cca0b2b7-3347-4a99-8218-cd66984f88ef)
 
 SQL Server is a Database Management System (DBMS) created by Microsoft to 
