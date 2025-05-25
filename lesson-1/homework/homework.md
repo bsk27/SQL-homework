@@ -17,6 +17,9 @@
 5. Write and execute a query to create a table called Students with columns: StudentID (INT, PRIMARY KEY), Name (VARCHAR(50)), Age (INT).
 6. Describe the differences between SQL Server, SSMS, and SQL.
 
+
+![image](https://github.com/user-attachments/assets/cca0b2b7-3347-4a99-8218-cd66984f88ef)
+
 ## Hard
 7. Research and explain the different SQL commands: DQL, DML, DDL, DCL, TCL with examples.
 8. Write a query to insert three records into the Students table.
