@@ -16,11 +16,18 @@ Data is information in its raw form. It can be numbers, words, pictures, or soun
 database is like a digital filing cabinet. It's a place to store data in an organized way, so we can easily find, use, or change it later
 relational database stores data in tables, like a spreadsheet linked to each other, so we can combine data from different places, as we use any cell to relate to its respective ID “primary key”
 table is part of a database, consist of rows and columns, each row is a record (like one person or item), and each column holds a type of information (like a name or age, gender, cost of item)
-1.Relational Database Engine stores data in tables and lets us query it using SQL
+
+Here is five key feauters of SQL Server: 
+1.Relational Database Engine stores data in tables and lets us query it using SQL.
 2.High Availability keeps the database running with backup and failover features
 3.Security protects data with encryption, access controls, and masking using login and password to enter, we can only get data using SQL queries 
 4.Business Intelligence helps with reporting, data integration, and analysis
 5.Performance optimizes speed with indexing, in-memory storage
+
+Windows Authentication uses your Windows login; more secure and managed by the system.
+SQL Server Authentication uses a separate username and password set in SQL Server; good for non-Windows access. SQL Server can be configured to allow both modes simultaneously (Mixed Mode Authentication).
+
+
 
 ## Medium
 4. Create a new database in SSMS named SchoolDB.
