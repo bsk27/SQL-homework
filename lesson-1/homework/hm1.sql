@@ -1,0 +1,29 @@
+Easy
+
+Define the following terms: data, database, relational database, and table.
+data is information in its raw form. It can be numbers, words, pictures, or sounds. by itself, it's not very useful, but when organized, it can help us understand things, events and behaviors
+database is like a digital filing cabinet. It's a place to store data in an organized way, so we can easily find, use, or change it later
+relational database stores data in tables, like a spreadsheet linked to each other, so we can combine data from different places, as we use any cell to relate to its respective ID “primary key”
+table is part of a database, consist of rows and columns, each row is a record (like one person or item), and each column holds a type of information (like a name or age, gender, cost of item)
+
+List five key features of SQL Server.
+Relational Database Engine stores data in tables and lets us query it using SQL
+High Availability keeps the database running with backup and failover features
+Security protects data with encryption, access controls, and masking using login and password to enter, we can only get data using SQL queries 
+Business Intelligence helps with reporting, data integration, and analysis
+Performance optimizes speed with indexing, in-memory storage
+
+What are the different authentication modes available when connecting to SQL Server? (Give at least 2)
+Windows Authentication uses your Windows login; more secure and managed by the system.
+SQL Server Authentication uses a separate username and password set in SQL Server; good for non-Windows access. SQL Server can be configured to allow both modes simultaneously (Mixed Mode Authentication).
+
+
+Medium
+Create a new database in SSMS named SchoolDB.
+Write and execute a query to create a table called Students with columns: Student ID (INT, PRIMARY KEY), Name (VARCHAR(50)), Age (INT).
+Describe the differences between SQL Server, SSMS, and SQL.
+
+Hard
+Research and explain the different SQL commands: DQL, DML, DDL, DCL, TCL with examples.
+Write a query to insert three records into the Students table.
+Restore AdventureWorksDW2022.bak file to your server. (write its steps to submit) You can find the database from this link:https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak
